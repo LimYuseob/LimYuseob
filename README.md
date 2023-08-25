@@ -31,7 +31,7 @@
   https://limyuseob.github.io/portfolio/
 </a>
 
-<br>
+<br><br>
 
 <a href="mailto:dladbtjq@naver.com">
 <img src="https://img.shields.io/badge/Email-30B980?style=flat&logo=minutemailer&logoColor=white"/><br>
