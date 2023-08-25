@@ -27,8 +27,18 @@
 <br><br>
 
 <a href="https://limyuseob.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-F5C300?style=flat&logo=spreaker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-F5C300?style=flat&logo=spreaker&logoColor=white"/><br>
+  https://limyuseob.github.io/portfolio/
 </a>
+
+<br>
+
+<a href="dladbtjq@naver.com">
+<img src="https://img.shields.io/badge/Email-30B980?style=flat&logo=minutemailer&logoColor=white"/><br>
+ dladbtjq@naver.com
+</a>
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimYuseob&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LimYuseob&show_icons=true">
